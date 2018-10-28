@@ -1,6 +1,4 @@
 # hello-world
 Just a test
-
-
-Roses are red
-Violets are blue (blue? that desnt make sense!)
+=======
+I'm testing this thing. I like PHP and C#, Delphi? More or less. Java? Ugh! But forced to work with that one e_e
